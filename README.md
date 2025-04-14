@@ -21,7 +21,7 @@ This is not your clean, minimalist, Material Design weather app. This is:
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/saucynandhu/weather-fever-dream.git
+   git clone https://github.com/saucynandhu/bad-weather-app.git
    
 2. Open index.html in your browser.
 
