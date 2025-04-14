@@ -1,5 +1,5 @@
 document.addEventListener("DOMContentLoaded", () => {
-  const apiKey = "2a00e6db3daf52e7a9aef452023d9b93";
+ // const apiKey = "API KEY";
   const cityInput = document.getElementById("cityName");
   const tempElement = document.getElementById("temp");
   const cityElement = document.getElementById("city");
