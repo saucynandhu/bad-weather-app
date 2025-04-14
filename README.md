@@ -15,7 +15,7 @@ This is not your clean, minimalist, Material Design weather app. This is:
 - CSS (poorly, on purpose)
 - JavaScript
 - A dash of regret
-- A bunch of images of the internet (might be breaking copyright laws)
+- A bunch of images I found on the internet (might be breaking copyright laws)
 
 ## 🚀 How to Run
 
