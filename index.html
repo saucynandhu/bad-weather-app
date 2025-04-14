@@ -1,0 +1,50 @@
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <script src="dynamic.js">
+
+    </script>
+
+    <title>WEATHER</title>
+</head>
+
+<body>
+
+    <div id="card">
+
+        <div id="search">
+            <input type="text" placeholder="Enter City Name" spellcheck="false" id="cityName">
+            <button onclick="fetchWeather()"><img src="weather-app-img/images/search.png" alt=""></button>
+
+        </div>
+
+        <div id="weather">
+            <img src="weather-app-img/images/rain.jpg" class="weather-icon">
+            <h1 id="temp">X°C</h1>
+            <h2 id="city">Type in a Country</h2>
+            <p id="weirdOut"></p>
+            <div id="details">
+                <div class="col">
+                    <img src="weather-app-img/images/humidity.png" alt="">
+                    <div>
+                        <p id="humidity">Y%</p>
+                        <p>Humidity</p>
+                    </div>
+                </div>
+                <div class="col">
+                    <img src="weather-app-img/images/wind.png" alt="">
+                    <div>
+                        <p id="wind">Z km/h</p>
+                        <p>Wind Speed</p>
+                    </div>
+
+                </div>
+            </div>
+
+        </div>
+</body>
+
+</html>
